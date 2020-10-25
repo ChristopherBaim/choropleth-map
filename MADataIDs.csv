@@ -1,0 +1,352 @@
+NAME,Rep
+Berlin,0.486775178
+Lunenburg,0.543167702
+Sandisfield,0.479508197
+Groveland,0.55830303
+Barre,0.590940054
+Boxborough,0.352557836
+Boston,0.202883555
+Williamstown,0.195142147
+Rehoboth,0.600974631
+New Ashford,0.372670807
+Adams,0.408578431
+Goshen,0.429467085
+Plainfield,0.372315036
+Brewster,0.440498899
+Westhampton,0.446302817
+Georgetown,0.53998432
+Merrimac,0.518424396
+Swampscott,0.374901519
+Wenham,0.447941889
+Halifax,0.603009515
+Rockland,0.539483318
+Blandford,0.642956764
+Auburn,0.5244844
+Ashfield,0.276190476
+Webster,0.579139118
+Heath,0.468409586
+Dracut,0.595729148
+Framingham,0.316637805
+Holden,0.510052448
+Oak Bluffs,0.311905543
+Clinton,0.479480448
+Hopedale,0.499003133
+Millbury,0.566136114
+Oakham,0.632601351
+Spencer,0.614468085
+Westborough,0.383899345
+Southwick,0.65102309
+Alford,0.263843648
+Cheshire,0.482813326
+Lanesborough,0.428734974
+Sheffield,0.360453141
+Foxborough,0.503866976
+Burlington,0.463183065
+Hudson,0.44519098
+Stoneham,0.476265704
+Wakefield,0.47566064
+Colrain,0.450749465
+Northfield,0.423449061
+Warwick,0.428270042
+Blackstone,0.599826952
+Aquinnah,0.191637631
+Hampden,0.618864293
+Chesterfield,0.481770833
+Clarksburg,0.430803571
+Easton,0.496118669
+Hawley,0.490291262
+Maynard,0.366174056
+West Bridgewater,0.61458086
+North Brookfield,0.649942107
+Norton,0.546359924
+Mendon,0.573102679
+Great Barrington,0.234856536
+Douglas,0.642211055
+Otis,0.533549784
+Whitman,0.579084481
+Randolph,0.252953395
+Leverett,0.231481481
+Westford,0.441830716
+Bolton,0.434678625
+Rutland,0.59135004
+Harwich,0.468035464
+Rockport,0.372588424
+Tyringham,0.327759197
+Monroe,0.576271186
+Nahant,0.433557611
+North Adams,0.365538357
+Acushnet,0.576692525
+Acton,0.290660908
+Bridgewater,0.564840183
+Orange,0.567103348
+Townsend,0.601912046
+Groton,0.42498532
+Chester,0.658045977
+Stockbridge,0.260536398
+Gloucester,0.41297582
+Chatham,0.483523584
+Natick,0.332238643
+Chicopee,0.497249501
+Shrewsbury,0.447076587
+Ware,0.5914903
+Tolland,0.68338558
+Peabody,0.495779187
+Hadley,0.351343193
+Dover,0.438180828
+Rochester,0.601630751
+Cummington,0.410934744
+Barnstable Town,0.507012889
+Rowe,0.493775934
+Swansea,0.557308689
+Taunton,0.494893791
+Sudbury,0.323400366
+Weston,0.347670251
+Oxford,0.609395018
+Lakeville,0.620848708
+Canton,0.445102506
+Wrentham,0.551440329
+Hopkinton,0.426092545
+Whately,0.434951456
+Warren,0.625207297
+Hanover,0.575695859
+Charlemont,0.446258503
+Pepperell,0.571720713
+Middleborough,0.617779534
+Westfield,0.573966642
+Wellesley,0.307742696
+Athol,0.589398734
+Avon,0.500796178
+Sutton,0.597773138
+West Boylston,0.516960651
+Newton,0.23185658
+Marlborough,0.423156632
+North Andover,0.481483741
+Ashland,0.390521124
+Topsfield,0.50166113
+Russell,0.672169811
+New Bedford,0.38074268
+Mount Washington,0.289719626
+Yarmouth,0.488766011
+Andover,0.426629879
+Marblehead,0.383568931
+Falmouth,0.434398737
+Egremont,0.265088757
+Marion,0.439963888
+Worthington,0.436435125
+Paxton,0.552067947
+Granville,0.660243408
+Cambridge,0.126102624
+Waltham,0.350705227
+West Springfield Town,0.540473125
+Braintree Town,0.49243673
+Berkley,0.604512096
+Shutesbury,0.235569423
+Chelsea,0.252466859
+Revere,0.404212938
+Winthrop Town,0.466022412
+Amesbury Town,0.449691555
+Boxford,0.528801843
+Danvers,0.503267974
+Essex,0.447916667
+Hamilton,0.44750105
+Ipswich,0.441668551
+Lynnfield,0.579097881
+Methuen Town,0.505512212
+Middleton,0.58568413
+Newbury,0.466796453
+Newburyport,0.362482735
+Rowley,0.570038412
+Salem,0.326060497
+Norwell,0.515666568
+Wareham,0.528743605
+Dennis,0.481870229
+Provincetown,0.132138391
+Sandwich,0.534396038
+Truro,0.310887351
+Wellfleet,0.319018405
+Orleans,0.41523395
+Abington,0.538263016
+Brockton,0.298533644
+Carver,0.602795665
+Duxbury,0.491184628
+Hanson,0.60506658
+Kingston,0.551202483
+Marshfield,0.538756281
+Mattapoisett,0.50741771
+Bourne,0.555052107
+Amherst,0.179808841
+Easthampton Town,0.365761535
+Huntington,0.616985845
+Northampton,0.20494263
+Southampton,0.545951575
+South Hadley,0.442278861
+Williamsburg,0.2957993
+Holliston,0.396486826
+Lexington,0.252326394
+Lincoln,0.242860753
+Malden,0.31093716
+Melrose,0.369907435
+North Reading,0.532117107
+Northborough,0.43414957
+Shirley,0.525507246
+Stow,0.396478716
+Tewksbury,0.568264425
+Tyngsborough,0.552812272
+Wayland,0.289730483
+Wilmington,0.543582199
+Becket,0.454632283
+Dalton,0.371231697
+Hancock,0.523929471
+Hinsdale,0.466549296
+Lee,0.364633753
+Woburn,0.477501197
+Lenox,0.278423773
+Peru,0.50867052
+Richmond,0.297512438
+Savoy,0.541147132
+Washington,0.336391437
+West Stockbridge,0.268590455
+Arlington,0.246855634
+Belmont,0.302157784
+Billerica,0.548260131
+Carlisle,0.321144205
+Chelmsford,0.476323256
+Dunstable,0.531203931
+Reading,0.433002243
+Sherborn,0.351450606
+Brookline,0.171731806
+Cohasset,0.425595238
+Dedham,0.410570217
+Needham,0.307221741
+Norwood,0.441548771
+Stoughton,0.419095408
+Walpole,0.509711357
+Weymouth Town,0.484447718
+Medfield,0.434671112
+Medway,0.486025641
+Millis,0.481188119
+Milton,0.34286762
+Buckland,0.341143393
+Deerfield,0.364135703
+New Salem,0.451140065
+Shelburne,0.31411863
+Sunderland,0.305441478
+Erving,0.496402878
+Gill,0.392444911
+Greenfield Town,0.359089341
+Montague,0.363616121
+Agawam Town,0.582711568
+Brimfield,0.626999059
+East Longmeadow,0.561971077
+Longmeadow,0.448723272
+Ludlow,0.570634997
+Monson,0.589316239
+Palmer Town,0.60035524
+Wales,0.641101278
+Wilbraham,0.56525778
+Worcester,0.350195315
+Ashburnham,0.576640188
+Brookfield,0.612479475
+Charlton,0.630976706
+Dudley,0.614907964
+Fitchburg,0.452133427
+Hardwick,0.600281492
+Hubbardston,0.623869801
+Lancaster,0.538538289
+Leicester,0.584248456
+Leominster,0.50679164
+Millville,0.626794258
+Petersham,0.495767836
+Chilmark,0.217005076
+Edgartown,0.36405694
+Gosnold,0.492957746
+Tisbury,0.268274303
+Princeton,0.495522388
+Southborough,0.41969423
+Sterling,0.57323332
+Sturbridge,0.541108294
+Templeton,0.62518482
+Upton,0.508982036
+West Brookfield,0.585598474
+Westminster,0.576465499
+Winchendon,0.612602858
+Attleboro,0.496288492
+Fairhaven,0.512852736
+Freetown,0.59917274
+Mansfield,0.484371486
+Somerset,0.523109857
+Westport,0.530878733
+Nantucket,0.370195959
+Lawrence,0.190936137
+Watertown Town,0.294728948
+Concord,0.260941731
+Westwood,0.439751422
+Hatfield,0.403345725
+Pittsfield,0.320880945
+Sharon,0.314304711
+Saugus,0.56617747
+New Marlborough,0.352468427
+New Braintree,0.605136437
+Fall River,0.433312786
+Ashby,0.626487325
+Phillipston,0.636893204
+Lynn,0.351721314
+North Attleborough,0.542633148
+Quincy,0.39616515
+Middlefield,0.495114007
+Hingham,0.427128913
+Dighton,0.611353712
+Bedford,0.369575998
+Monterey,0.247292419
+Windsor,0.416044776
+Granby,0.558674151
+Raynham,0.574225749
+Harvard,0.333951271
+Manchester-by-the-Sea,0.379243721
+Leyden,0.390438247
+Southbridge Town,0.467984529
+Plainville,0.555377207
+Royalston,0.552706553
+Plymouth,0.527541411
+Boylston,0.502271933
+Lowell,0.369276495
+Montgomery,0.624528302
+Belchertown,0.476360181
+Conway,0.299595142
+Scituate,0.462484523
+Holland,0.656046343
+Holyoke,0.315922296
+Salisbury,0.563825364
+Eastham,0.404916261
+East Bridgewater,0.603992514
+Northbridge,0.592601404
+Mashpee,0.504897596
+Norfolk,0.518723543
+Beverly,0.411725338
+Haverhill,0.488632215
+West Newbury,0.457831325
+Pembroke,0.563865863
+Littleton,0.425929012
+Franklin Town,0.483155211
+Winchester,0.379273175
+Bellingham,0.550990871
+Gardner,0.521113901
+Dartmouth,0.482864543
+Hull,0.436344185
+Ayer,0.482279693
+Everett,0.334809815
+Medford,0.32226153
+Somerville,0.17453638
+West Tisbury,0.229927007
+Holbrook,0.497844456
+East Brookfield,0.65735415
+Florida,0.5225
+Plympton,0.59789823
+Seekonk,0.534975244
+Bernardston,0.428456592
+Wendell,0.319796954
+Springfield,0.268999384
+Pelham,0.182513661
+Grafton,0.477787499
+Milford,0.466946333
+Uxbridge,0.58117466
