@@ -1,4 +1,5 @@
 plotly.express
+plotly==4.5
 certifi==2019.6.16
 chardet==3.0.4
 Click==7.0
@@ -22,7 +23,7 @@ MarkupSafe==1.1.1
 nbformat==4.4.0
 numpy==1.16.4
 pandas==0.24.2
-plotly
+
 pytz==2019.1
 six==1.12.0
 traitlets==4.3.2
