@@ -21,7 +21,7 @@ fig = px.choropleth(df, geojson=towns, locations='NAME', color='Rep',
 
 fig.update_geos(fitbounds="locations", visible=False)
 fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-#fig.show()
+fig.show()
 
 ########### Initiate the app
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
