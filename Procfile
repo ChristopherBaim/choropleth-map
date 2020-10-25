@@ -1,1 +1,1 @@
-heroku python "Map.py"
+web: gunicorn app:server
